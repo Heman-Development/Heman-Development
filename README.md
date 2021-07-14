@@ -27,11 +27,12 @@
 <p align="center">👇 Ways to contact me 👇</p>
 <div align="center"> 
 <a href="https://www.linkedin.com/in/heydar-molaei-forouhar">
-  <img align="center" src="https://media1.giphy.com/media/QTfbmaD7JZqHpmVtvT/giphy.gif?cid=6c09b9520843a68955687c99ea187253c3557a476d8ccf94&rid=giphy.gif&ct=g" />
+  <img  width=90  align="center" src="https://img.shields.io/badge/linkedin-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  
 <a href="#">
-  <img align="center" width="100" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
+  <img align="center" width="100" src="https://media1.giphy.com/media/QTfbmaD7JZqHpmVtvT/giphy.gif?cid=6c09b9520843a68955687c99ea187253c3557a476d8ccf94&rid=giphy.gif&ct=g" />
 </a> 
+
 <a href="mailto:heydarforouhar@gmail.com">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a> 
@@ -42,11 +43,18 @@
 <div align="center">🧰 Toolbox</div>
 <br/>
 <a href="#">
-  <img align="left" width=200 height=188 align="left" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+  <img align="left" width=200 height=188 align="left" src="https://icon-library.com/images/typing-icon/typing-icon-4.jpg" />
 </a>  
+<!---
 <a href="#">
   <img align="right" width=200 height=188 src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</a> 
+</a>
+ --->
+ <a href="#">
+  <img align="right" width=200 height=188 src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" />
+</a>
+
+ 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img src="https://img.shields.io/badge/Mac%20Mini%20M1-lightgrey?style=flat&logo=apple" alt="apple"/>
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white" alt="fedora"/> 
