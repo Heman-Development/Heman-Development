@@ -1,5 +1,5 @@
 <!---
-<p align="center"> Hey  <img src="https://media1.giphy.com/media/QTfbmaD7JZqHpmVtvT/giphy.gif?cid=6c09b9520843a68955687c99ea187253c3557a476d8ccf94&rid=giphy.gif&ct=g" width="30px"> </p>
+<p align="center"> Hey  <img src="" width="30px"> </p>
 <p align="center">Welcome to my <img width=20 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page!</p>
 <p align="center">👋 Hi, I’m Heydar Molaei Forouhar</p>
 <p align="center">👀 I’m Junior Full Stack Web Developer based in Germany </p>
