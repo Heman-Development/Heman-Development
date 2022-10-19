@@ -4,6 +4,7 @@
 <p align="center">👋 Hi, I’m Heydar Molaei Forouhar</p>
 <p align="center">👀 I’m Full Stack Web Developer (MERN) based in Germany </p>
 
+
 <p align="center"> 📫 How to reach me: www.linkedin.com/in/heydar-molaei-forouhar </p>
 
 
@@ -20,8 +21,8 @@
 <p align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
 <p align="center">Welcome to my <img width=50 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page!</p>
 <p align="center"><i> 🙋‍♂️ Hi, I’m Heydar Molaei Forouhar </i></p>
-<p align="center"><i>Junior Full Stack Web Developer based in Germany.</i></p>
-<p align="center"><i>📚 🌱 I’m currently learning alot everyday 😉</i></p>
+<p align="center"><i>I’m Full Stack Web Developer (MERN) based in Germany .</i></p>
+
 <hr/>
 <p align="center">👇 Ways to contact me 👇</p>
 <div align="center"> 
