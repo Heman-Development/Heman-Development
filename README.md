@@ -4,7 +4,6 @@
 <p align="center">👋 Hi, I’m Heydar Molaei Forouhar</p>
 <p align="center">👀 I’m Full Stack Web Developer (MERN) based in Germany </p>
 
-<p align="center">🌱 I’m currently learning alot everyday 😉</p>
 <p align="center"> 📫 How to reach me: www.linkedin.com/in/heydar-molaei-forouhar </p>
 
 
