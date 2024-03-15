@@ -1,11 +1,11 @@
 <!---
 <p align="center"> Hey  <img src="" width="30px"> </p>
-<p align="center">Welcome to my <img width=20 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page!</p>
+<p align="center">Welcome to my page!</p>
 <p align="center">👋 Hi, I’m Heydar Molaei Forouhar</p>
 <p align="center">👀 I’m Full Stack Web Developer (MERN) based in Germany </p>
 
 
-<p align="center"> 📫 How to reach me: www.linkedin.com/in/heydar-molaei-forouhar </p>
+<p align="center"> 📫 How to reach me: www.linkedin.com/in/heydar-weinberg/ </p>
 
 
 <a href="https://github.com/Heman-Development/github-readme-stats">
@@ -19,14 +19,14 @@
 --->
 
 <p align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
-<p align="center">Welcome to my <img width=50 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page!</p>
-<p align="center"><i> 🙋‍♂️ Hi, I’m Heydar Molaei Forouhar </i></p>
-<p align="center"><i>I’m Full Stack Web Developer (MERN) based in Germany .</i></p>
+<p align="center">Welcome to my page!</p>
+<p align="center"><i> 🙋‍♂️ Hi, I’m Heydar Weinberg </i></p>
+<p align="center"><i>I’m Full Stack Software Engineer based in Germany.</i></p>
 
 <hr/>
 <p align="center">👇 Ways to contact me 👇</p>
 <div align="center"> 
-<a href="https://www.linkedin.com/in/heydar-molaei-forouhar">
+<a href="https://www.linkedin.com/in/heydar-weinberg">
   <img  width=90  align="center" src="https://img.shields.io/badge/linkedin-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  
 <a href="#">
@@ -45,11 +45,7 @@
 <a href="#">
   <img align="left" width=200 height=188 align="left" src="https://i.poweredtemplates.com/i/cl/00/682/ppt_animation_332.gif" />
 </a>  
-<!---
-<a href="#">
-  <img align="right" width=200 height=188 src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</a>
- --->
+
  <a href="#">
   <img align="right" width=200 height=188 src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" />
 </a>
@@ -74,11 +70,9 @@
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white" alt="chrome"/>
 </div>
 </div>
----
+
 <div align="center">
-<a href="https://github.com/Heman-Development/github-readme-stats">
-  <img width=450 align="center" src="https://github-readme-stats-Heman-Development.vercel.app/api?username=Heman-Development&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
-</a>
+
 <a href="https://github.com/Heman-Development/github-readme-stats">
   <img card_width=450 align="center" src="https://github-readme-stats-Heman-Development.vercel.app/api/top-langs/?username=Heman-Development&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
 </a> 
